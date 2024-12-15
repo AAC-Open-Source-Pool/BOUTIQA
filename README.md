@@ -3,12 +3,12 @@
 <h2>Team Details</h2>
 <b>Team Number: </b> <p>24AACR04</p>
 <b>Senior Mentor:</b><p> </p>
-<b>Junior Mentor:</b><p> VENKAT VAMSHI</p>
-<b>Team Member 1:</b><p> DEVULAPALLY YASHWANTH</p>
-<b>Team Member 2:</b><p> SAMUEL OOMMEN</p>
-<b>Team Member 3:</b><p> VYSHNAVI</p>
-<b>Team Member 4:</b><p> VAISHNAVI</p>
-<b>Team Member 5:</b><p> VEDA ALLURI </p>
+<b>Junior Mentor:</b><p> Venkat Vamshi</p>
+<b>Team Member 1:</b><p> Devulapally Yashwanth</p>
+<b>Team Member 2:</b><p> Samuel Oommen</p>
+<b>Team Member 3:</b><p> Vyshnavi</p>
+<b>Team Member 4:</b><p> Vaishnavi</p>
+<b>Team Member 5:</b><p> Veda Alluri</p>
 
 ## Table of Contents
 - [Introduction](#introduction) <br>
@@ -121,7 +121,6 @@ logger                            1.0.0
   <li>Make sure your emulator or physical device is connected to the internet for Firebase to work properly.</li>
 </ul>
 <h2>Preview</h2>
-<p>Below is an example of the fall detection system in action:</p>
 <div style="display: flex; align-items: center;">
   <img src="">
 </div>
