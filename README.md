@@ -19,7 +19,7 @@
 
 <h2>Introduction</h2>
 <p> 
-it is a clothing app that connects users and designers, on a single platform.Users can browse, save and shop outfits while maintaining personalised profiles, designers can showcase collections, engage with followers, and sell directly.The app simplifies fashion delivery and shopping, creating an interactive and seamless experience.
+It is a clothing app that connects users and designers, on a single platform.Users can browse, save and shop outfits while maintaining personalised profiles, designers can showcase collections, engage with followers, and sell directly.The app simplifies fashion delivery and shopping, creating an interactive and seamless experience.
 </p>
 
 
